@@ -1,0 +1,2 @@
+# Terning
+Terningprogram i Python
